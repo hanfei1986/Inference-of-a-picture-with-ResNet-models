@@ -5,12 +5,12 @@ ResNet models are lightweight computer vision pre-trained models. This notebook 
 
 The input picture is classified to be
 
-[tiger], with probability 0.833.
-
-[tiger cat], with probability 0.162.
-
-[lynx], with probability 0.003.
-
-[cougar], with probability 0.001.
-
-[tabby], with probability 0.000.
+tiger, with probability 0.833
+ 
+tiger cat, with probability 0.162
+ 
+lynx, with probability 0.003
+ 
+cougar, with probability 0.001
+ 
+tabby, with probability 0.000
